@@ -1,5 +1,5 @@
 # DRF_Projcet
-<hr>
+<br>
 
 
 ## DRF(Django Rest Framework)?
@@ -11,7 +11,7 @@
 ### REST API
 - 어떤 자원에 대해 CRUD 연산을 수행하기 위해 URL로 요청
 - GET(Read), POST(Create), PUT(Update), DELETE(Delete) Method를 사용하여 요청
-<hr>
+<br>
 
 ## DRF 초기 설정
 
@@ -28,5 +28,4 @@ python manage.py startapp employee
 ```
 
 #### 그 외 설치된 package는 requirements.txt 확인
-<hr>
 
