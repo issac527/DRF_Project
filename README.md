@@ -1,8 +1,8 @@
-#DRF_Projcet
+# DRF_Projcet
 <hr>
 
 
-##DRF(Django Rest Framework)?
+## DRF(Django Rest Framework)?
 - Django 내에서 REST API 서버를 쉽게 구축할 수 있도록 돕는 오픈소스 라이브러리
 - 범용성이 넓고 개발을 쉽게 만들어줌
 - Serializer 기능을 제공(DB data -> JSON)
