@@ -1,5 +1,6 @@
 # DRF_Projcet
 <br>
+Django Rest Framework를 활용하여 기본적인 CRUD 구현 프로젝트
 
 
 ## DRF(Django Rest Framework)?
